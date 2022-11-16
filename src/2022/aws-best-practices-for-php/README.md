@@ -71,7 +71,10 @@ Examples:
   ./phpboost -t 3600                      
 ```
 
-<center>
-  <a href="https://www.logicata.com" target="_blank">© 2022 - Logicata Ltd</a></center>
+
+<!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
+  <a href="https://www.logicata.com" target="_blank">© 2022 - Logicata Ltd</a>
+</div>
 
 

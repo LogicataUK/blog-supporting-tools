@@ -12,6 +12,7 @@ Logicata is an AWS Partner specialising in Cloud Consulting and Managed Services
 
 Keep you up-to-date with the latest news about cloud and AWS. Subscribe our [Podcasts and Newsletter](https://www.logicata.com/follow).
 
+<!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
  <a href="https://www.logicata.com/follow" target="_blank">https://www.logicata.com/follow</a>
 </div>
