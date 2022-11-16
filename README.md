@@ -15,3 +15,13 @@ Keep you up-to-date with the latest news about cloud and AWS. Subscribe our [Pod
 <div align="center">
  <a href="https://www.logicata.com/follow" target="_blank">https://www.logicata.com/follow</a>
 </div>
+
+
+---
+
+<!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
+  <a href="https://www.logicata.com" target="_blank">© 2022 - Logicata Ltd</a>
+</div>
+
+
