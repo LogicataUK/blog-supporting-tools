@@ -71,6 +71,7 @@ Examples:
   ./phpboost -t 3600                      
 ```
 
+---
 
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
