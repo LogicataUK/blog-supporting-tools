@@ -62,7 +62,7 @@ Options:
                      (default 2s)
   -a, --autoscale    Add this parameter if you have AWS autoscaling
                      configured (You should contact us if you
-                     haven't :))
+                     haven't :)
   -h, --help         Shows this help.
 
 Examples:
