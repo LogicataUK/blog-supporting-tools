@@ -1,10 +1,10 @@
 [![Logicata](doc/images/header.png)](https://www.logicata.com/)
 
-This project contains scripts and tools mentioned into the [Logicata Blog articles](https://www.logicata.com/blog/).
+This project contains the scripts and tools mentioned in the [Logicata Blog articles](https://www.logicata.com/blog/).
 
 ## About Logicata
 
-Logicata is an AWS Partner specialising in Cloud Consulting and Managed Services, having a deep knowledge of AWS, and the underlying open-source technologies AWS leverages. A deep understanding of such core technologies combined with varied IT backgrounds translates into multi-dimensional expertise for its customers' businesses.
+Logicata are an AWS Partner specialising in Cloud Consulting and Managed Services, with a deep knowledge of AWS and the underlying open-source technologies they leverage. Our expertise in core technologies wielded by a team with diverse IT backgrounds translates into full spectrum service and support for its customers' businesses.
 
 
 
