@@ -21,7 +21,7 @@ Keep you up-to-date with the latest news about cloud and AWS. Subscribe our [Pod
 
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
-  <a href="https://www.logicata.com" target="_blank">© 2022 - Logicata Ltd</a>
+  <a href="https://www.logicata.com" target="_blank">© 2022-2024 - Logicata Ltd</a>
 </div>
 
 
